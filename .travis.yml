@@ -1,6 +1,8 @@
 language: R
 cache: packages
 
+language: r
+
 r_packages:
   - covr
 
