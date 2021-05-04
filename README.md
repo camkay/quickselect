@@ -5,13 +5,12 @@
 
 <!-- badges: start -->
 
-[![Travis build
-status](https://travis-ci.com/camkay/quickselect.svg?branch=master)](https://travis-ci.com/camkay/quickselect)
+[![Build
+Status](https://travis-ci.com/camkay/quickselect.svg?branch=main)](https://travis-ci.com/camkay/quickselect)
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![Build
 status](https://ci.appveyor.com/api/projects/status/7vy4wwladyg29iy9/branch/main?svg=true)](https://ci.appveyor.com/project/camkay/quickselect/branch/main)
-[![Codecov test
-coverage](https://codecov.io/gh/camkay/quickselect/branch/master/graph/badge.svg)](https://codecov.io/gh/camkay/quickselect?branch=master)
+[![codecov](https://codecov.io/gh/camkay/quickselect/branch/main/graph/badge.svg?token=6AO4RZ440F)](https://codecov.io/gh/camkay/quickselect)
 <!-- badges: end -->
 
 Quickly select columns from a data frame or tibble using
