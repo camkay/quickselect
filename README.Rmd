@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-# quickselect <img src="tools/quickselect_hex4.png" width = 167 align="right"/>
+# quickselect <img src="tools/quickselect_hex.png" width = 167 align="right"/>
 
 <!-- badges: start -->
 [![Build Status](https://travis-ci.com/camkay/quickselect.svg?branch=main)](https://travis-ci.com/camkay/quickselect)
