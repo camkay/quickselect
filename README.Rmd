@@ -23,6 +23,10 @@ knitr::opts_chunk$set(
 
 Quickly select columns from a data frame or tibble using [regex](https://en.wikipedia.org/wiki/Regular_expression). It is essentially a wrapper for `select(matches("my_var"))` from `{dyplr}` and `{tidyselect}`. It includes two functions `match()` and `unmatch()` 
 
+<center>
+<img src="tools/quickselect_meme.png" height = 400/>
+</center>
+
 ## Installation
 
 The development version of `quickselect` can be installed from [GitHub](https://github.com/) with:
