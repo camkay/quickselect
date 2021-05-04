@@ -19,9 +19,9 @@ Quickly select columns from a data frame or tibble using
 essentially a wrapper for `select(matches("my_var"))` from `{dyplr}` and
 `{tidyselect}`. It includes two functions `match()` and `unmatch()`
 
-<center>
+<p align="center">
 <img src="tools/quickselect_meme.png" height = 400/>
-</center>
+</p>
 
 ## Installation
 
