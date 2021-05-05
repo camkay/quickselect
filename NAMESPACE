@@ -2,3 +2,5 @@
 
 export(match)
 export(unmatch)
+importFrom(dplyr,matches)
+importFrom(dplyr,select)
