@@ -1,12 +1,13 @@
 Package: quickselect
-Title: Quickly select data frame columns
+Title: Quickly Select Data Frame Columns
 Version: 0.1.0
 Authors@R: 
     person(given = "Cameron",
            family = "Kay",
            role = c("aut", "cre"),
            email = "cameronstuartkay@gmail.com")
-Description: Quickly select data frame or tibble columns using regex. It is essentially a wrapper for `select(matches("my_var"))` from dyplr.  
+Description: Quickly select data frame or tibble columns using regex. It is 
+    essentially a wrapper for `select(matches("my_var"))` from dyplr.  
 Depends: R (>= 3.3.0)
 Imports: 
   dplyr
@@ -14,7 +15,7 @@ License: MIT + file LICENSE
 Date: 2021-05-04
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.0
 Suggests: 
     covr,
     testthat (>= 2.1.0)

@@ -4,12 +4,14 @@
 \alias{match}
 \title{match}
 \usage{
-match(.data, pattern)
+match(.data, pattern, ignore.case = FALSE)
 }
 \arguments{
 \item{.data}{a data frame or tibble.}
 
 \item{pattern}{a character string that is used to find the columns of interest. It can be a regular expression.}
+
+\item{ignore.case}{a logical scalar that specifies whether the case of the string should be ignored when matching. Defaults to `FALSE`.}
 }
 \description{
 `match` extracts columns in a data frame that match a specified regex string.
